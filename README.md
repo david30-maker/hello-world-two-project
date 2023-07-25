@@ -42,7 +42,6 @@ This is hello world  application
   <ul>
     <li><p> <b>Ruby: </b> The primary programming language for the project.</p></li>
     <li><p><b>Rails: </b> It is a ruby frameworks.</p></li>
-    <li><p><b>React: </b> It is a javacsript frameworks.</p></li>
   </ul>
 </details>
 
@@ -59,11 +58,7 @@ This is hello world  application
     <li>Postgresql</li>
   </ul>
 </details>
-
-
 </ul>
-
-<h1>🚀 Live Demo</h1>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +137,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](LICENSE.md) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
