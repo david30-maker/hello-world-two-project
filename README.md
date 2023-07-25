@@ -60,7 +60,7 @@ This is hello world  application
 </details>
 </ul>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="git@github.com:david30-maker/hello-world-react-two.git">link to React App</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
