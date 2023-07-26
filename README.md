@@ -29,8 +29,6 @@
 
 # 📖 [Hellow-World] <a name="about-project"></a>
 This is hello world  application
-> .
-
 
 
 ## 🛠 Built With <a name="built-with"></a>
