@@ -29,8 +29,6 @@
 
 # 📖 [Hellow-World] <a name="about-project"></a>
 This is hello world  application
-> .
-
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -42,7 +40,6 @@ This is hello world  application
   <ul>
     <li><p> <b>Ruby: </b> The primary programming language for the project.</p></li>
     <li><p><b>Rails: </b> It is a ruby frameworks.</p></li>
-    <li><p><b>React: </b> It is a javacsript frameworks.</p></li>
   </ul>
 </details>
 
@@ -59,13 +56,9 @@ This is hello world  application
     <li>Postgresql</li>
   </ul>
 </details>
-
-
 </ul>
 
-<h1>🚀 Live Demo</h1>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/david30-maker/hello-world-react-two/tree/feature">link to React App</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -120,12 +113,16 @@ cd 'project name'
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
+- [Add_Navigation]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -137,12 +134,13 @@ Contributions, issues, and feature requests are welcome!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+- Thanks to Microverse for this opportunity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](LICENSE.md) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
