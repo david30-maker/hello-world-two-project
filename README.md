@@ -113,12 +113,16 @@ cd 'project name'
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
+- [Add_Navigation]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -130,6 +134,7 @@ Contributions, issues, and feature requests are welcome!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+- Thanks to Microverse for this opportunity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
